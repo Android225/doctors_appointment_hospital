@@ -92,7 +92,7 @@
         app:layout_constraintVertical_bias="0.025" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/BackToChoiceSpecialist_choice_date_fragment"
         style="@style/button_style_one"
         android:onClick="BackToChoiceSpecialist_choice_date"
         android:layout_width="wrap_content"
