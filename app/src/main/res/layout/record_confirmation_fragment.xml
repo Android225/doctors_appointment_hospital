@@ -147,13 +147,13 @@
         app:layout_constraintTop_toBottomOf="@+id/view1" />
 
     <Button
-        android:id="@+id/button_confirm_record_confirm"
+        android:id="@+id/BackToMain_record_confirmation_fragment"
         style="@style/button_style_one"
-        android:layout_width="159dp"
-        android:layout_height="66dp"
+        android:layout_width="198dp"
+        android:layout_height="74dp"
         android:onClick="confirm_record"
-        android:text="Далее"
-        app:layout_constraintBottom_toTopOf="@+id/button_back_data_fill"
+        android:text="Записаться на приём"
+        app:layout_constraintBottom_toTopOf="@+id/BackToChoiseTime_record_confirm_fragment"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/view2" />
