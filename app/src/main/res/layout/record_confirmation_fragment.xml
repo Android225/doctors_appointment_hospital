@@ -62,7 +62,7 @@
         app:layout_constraintVertical_bias="0.358" />
 
     <Button
-        android:id="@+id/button_back_data_fill"
+        android:id="@+id/BackToChoiseTime_record_confirm_fragment"
         style="@style/button_style_one"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

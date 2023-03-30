@@ -18,7 +18,7 @@
         android:layout_marginStart="123dp"
         android:layout_marginTop="22dp"
         android:layout_marginEnd="126dp"
-        android:text="Выберите время"
+        android:text="Выберите врача"
         android:textSize="20dp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/view1"
@@ -72,7 +72,7 @@
         app:layout_constraintVertical_bias="0.144" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/BackToChoiceDataFilling_choice_specialist_fragment"
         style="@style/button_style_one"
         android:layout_width="wrap_content"
         android:layout_height="58dp"
@@ -80,7 +80,7 @@
         android:layout_alignParentEnd="true"
         android:layout_marginTop="19dp"
         android:layout_marginEnd="154dp"
-        android:onClick="BackToChoiseDate_choice_time"
+        android:onClick="BackToChoiceDataFilling_choice_specialist"
         android:text="Назад" />
 
 </RelativeLayout>
