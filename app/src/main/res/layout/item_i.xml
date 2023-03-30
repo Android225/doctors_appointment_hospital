@@ -23,6 +23,7 @@
         android:layout_width="115dp"
         android:layout_height="93dp"
         app:srcCompat="@drawable/itemm"
+        style="@style/text_size"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
