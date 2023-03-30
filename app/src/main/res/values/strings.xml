@@ -7,10 +7,11 @@
     <string name="adress">Адрес: г.Москва, ул. Фадеева, 8с3</string>
     <string name="Back">назад</string>
     <string name="back">Назад</string>
-    <string name="medical_specialty_record_confirm">Специальность</string>
+    <string name="medical_specialty_record_confirm">--Специальность--</string>
     <string name="name_doctor_record_confirm">доктор ФИО</string>
     <string name="date_and_time">Время и дата:</string>
     <string name="date_and_time_record_conf">--дата и время--</string>
     <string name="adress_record_confirm">--адрес--</string>
     <string name="GetName_data_filling">Введите ФИО</string>
+    <string name="information_succes_enter">В случае возникновения вопросов звоните на номер +79999999999 или пишите на почту xxxxx@xx.ру</string>
 </resources>
